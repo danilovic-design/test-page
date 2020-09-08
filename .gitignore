@@ -7,7 +7,14 @@
 /coverage
 
 # production
-/build
+README.md
+package.json
+package-lock.json
+LICENCE
+.gitignore
+/src
+/public
+/node_modules
 
 # misc
 .DS_Store
